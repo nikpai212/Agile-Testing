@@ -1,0 +1,77 @@
+SCRUM 
+> Scrum is not an acronym, the name is taken from the sport of Rugby. 
+
+> analogy where Team workstogether to successfully develop software. 
+
+> Definition: Scrum is an iterative and incremental framework for application or product development. 
+  The development of the project is achieved through iterative cycles known as Sprints. 
+
+* At the start of each Sprint, a cross-functional team selects items from Product Backlog and commits to complete the items by the end of that particular Sprint. 
+* Every day the team gathers for a short meeting to discuss the progress and road blocks, if any. 
+* At the end of the Sprint, the team reviews the work product with stakeholders and demonstrates what has been built. 
+* The feedback is then incorporated in the subsequent Sprint. 
+* At the end of each Sprint, Scrum emphasizes that the integrated working software is fully tested, and potentially made shippable.
+* The Sprints are strictly time-boxed and occur sequentially. The end date of a Sprint does not get extended,regardless of the completion of the work initially planned
+==================================================================================================================================================================================
+
+Scrum Roles
+> Scrum team consists of three roles: 
+  * Product Owner
+  * Team 
+  * Scrum Master
+
+> Product Owner - 
+  * Provide Vision and maximise the value of the Project 
+ * Clear definition and management of Product Bcklog 
+  * Prioritise and Refine the Produt Backlog constantly to align with Project goals and missions.
+ * Ensuring that the Product Backlog is visible, transparent and clear to all and is self-explanatory on what the team will work on next
+  * Any team member recommending a change to a Product Backlog item’s priority, has to discuss this with the Product Owner.
+
+> Team - 
+  * Team converts Product Backlog into increments of potentially shippable working software at the end of every Sprint. 
+  * Team is structured, self-organized and manages its own work.It decides what to commit and how best to accomplish that commitment
+ * Team size in Scrum should be approx. 7 persons (five to nine is the ideal team size)
+ * The team is recommended to be cross-functional with skills in analysis, architecture, interface design, database design, development, testing, documentation
+ * Adheres to Scrum principles while working in the project
+ * The accountability of the work product belongs to the team as a whole
+
+> Scrum Master - 
+ * Helps the Scrum team to adopt Scrum
+ * Guides the Team to success by serving the team to become knowledge-wealthy and self-organizing
+ * Helps the Team to learn and apply Scrum to achieve the desired objective of the project
+ * Facilitates Scrum events
+ * Coaches the Team to be cross-functional
+ * Removes impediments for the Team’s progress
+  * Scrum Master cannot be the Product Owner, manager of the Team or the Project Manager
+==================================================================================================================================================================================
+Scrum Events
+
+Definition: Scrum uses time-boxed events to ensure that there is no wastage of time during the execution of the project. 
+  * Release Planning
+  * Sprint Planning
+  * Daily Standup meeting
+  * Sprint Review 
+  * Sprint Retrospective
+
+> Release Planning 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
