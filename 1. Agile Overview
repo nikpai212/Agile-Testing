@@ -1,0 +1,33 @@
+Agile Overview 
+
+> Agile software development is based on the Agile Manifesto introduced in 2001, as given below:
+ * Individuals and interactions over processes and tool
+  * Working software over comprehensive documentation
+ * Customer collaboration over contract negotiation
+ * Responding to change over following a plan
+
+> There are 12 principles which are the pillars of the Agile Manifesto. They are:
+  * Sustainable development, able to maintain a constant pace
+  * Continuous attention to technical excellence and good design
+ 
+ * Working software is delivered frequently (weeks rather than months)
+ * Working software is the principal measure of progress
+  * Customer satisfaction by rapid delivery of useful software
+
+
+ * Close, daily co-operation between business people and developers
+ * Face-to-face conversation is the best form of communication (co-location)
+ * Projects are built around motivated and trustworthy individuals
+  * Self-organizing teams
+
+ * Simplicity
+ 
+ * Regular adaptation to changing circumstances
+  * Welcome changing requirements, even late in development
+
+> Agile is a Methodology and Scrum is a menthod in it along with Kanban, XP , Lean and Feature driven development.
+> Scrum and XP is used by Agile Development based scenarios 
+> Kanban is used in Maintainence and Production scenarios where the key factor is visibility of Work in Progress items.
+
+
+

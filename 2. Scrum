@@ -1,0 +1,184 @@
+SCRUM 
+> Scrum is not an acronym, the name is taken from the sport of Rugby. 
+
+> analogy where Team workstogether to successfully develop software. 
+
+> Definition: Scrum is an iterative and incremental framework for application or product development. 
+  The development of the project is achieved through iterative cycles known as Sprints. 
+
+* At the start of each Sprint, a cross-functional team selects items from Product Backlog and commits to complete the items by the end of that particular Sprint. 
+* Every day the team gathers for a short meeting to discuss the progress and road blocks, if any. 
+* At the end of the Sprint, the team reviews the work product with stakeholders and demonstrates what has been built. 
+* The feedback is then incorporated in the subsequent Sprint. 
+* At the end of each Sprint, Scrum emphasizes that the integrated working software is fully tested, and potentially made shippable.
+* The Sprints are strictly time-boxed and occur sequentially. The end date of a Sprint does not get extended,regardless of the completion of the work initially planned
+==================================================================================================================================================================================
+
+Scrum Roles
+> Scrum team consists of three roles: 
+  * Product Owner
+  * Team 
+  * Scrum Master
+
+> Product Owner - 
+  * Provide Vision and maximise the value of the Project 
+ * Clear definition and management of Product Bcklog 
+  * Prioritise and Refine the Produt Backlog constantly to align with Project goals and missions.
+ * Ensuring that the Product Backlog is visible, transparent and clear to all and is self-explanatory on what the team will work on next
+  * Any team member recommending a change to a Product Backlog item’s priority, has to discuss this with the Product Owner.
+
+> Team - 
+  * Team converts Product Backlog into increments of potentially shippable working software at the end of every Sprint. 
+  * Team is structured, self-organized and manages its own work.It decides what to commit and how best to accomplish that commitment
+ * Team size in Scrum should be approx. 7 persons (five to nine is the ideal team size)
+ * The team is recommended to be cross-functional with skills in analysis, architecture, interface design, database design, development, testing, documentation
+ * Adheres to Scrum principles while working in the project
+ * The accountability of the work product belongs to the team as a whole
+
+> Scrum Master - 
+ * Helps the Scrum team to adopt Scrum
+ * Guides the Team to success by serving the team to become knowledge-wealthy and self-organizing
+ * Helps the Team to learn and apply Scrum to achieve the desired objective of the project
+ * Facilitates Scrum events
+ * Coaches the Team to be cross-functional
+ * Removes impediments for the Team’s progress
+  * Scrum Master cannot be the Product Owner, manager of the Team or the Project Manager
+==================================================================================================================================================================================
+Scrum Events
+
+Definition: Scrum uses time-boxed events to ensure that there is no wastage of time during the execution of the project. 
+  * Release Planning
+  * Sprint Planning
+  * Daily Standup meeting
+  * Sprint Review 
+  * Sprint Retrospective
+
+> Release Planning 
+   * Par of the project initiation,focuses on the strategy to turn the vision into a successful project in best possible way. 
+   * Establishes the plan and goals which needs to be achieved for theupcoming Release.
+   * There are multiple releases planned for the project based on the project objective. 
+   * High-priority Product Backlog items, major risks and overall features and functionalities that the release will contain predicted
+   * A probable delivery date is agreed upon. 
+   * The stakeholders can inspect the progress and make changes to the release plan on a Sprint-by-Sprint basis.
+
+> Sprint Planning 
+   * The Team collaboratively plans and decides the work to be accomplished in the upcoming Sprint. 
+   * It is a time boxed event consisting of two halves. 
+        # In the first half, which is of three to four hours of duration (for a three/four week Sprint), the Team discusses ‘WHAT’ to be delivered. 
+        # In the next half of similar duration, the Team discusses and decides ‘HOW’ to deliver the same in the Sprint. 
+   * The Sprint planning meeting is proportionately shorter in case Sprint duration is less than three weeks
+   * Planning the capacity for the new Sprint i.e. by estimating how much time each member has for Sprint-related work.
+   * Based on the capacity, the team determines how many Product Backlog items they can finish in that Sprint,and the approach for completing them. 
+   * The team decomposes the Product Backlog items into tasks based on the understanding of the overall design.
+   * The Team starts with the first item on the Product Backlog,such as the highest priority items and decomposes it into individual tasks, which are recorded in a document called the Sprint Backlog. 
+   * Tasks must be decomposed to the granular level so they can be completed in less than one day.
+
+> Daily Stand up Meeting 
+   * The Daily Scrum meeting is a 15-minute time-boxed event for the Team to synchronize activities and create a plan for the next 24 hours. 
+   * During the meeting, each Team member explains:
+           # What he or she has accomplished since last meeting
+           # What he or she is going to do before the next meeting
+           # What issues/obstacles are in his or her way
+   * Scrum Master facilitates the Daily Scrum meeting and helps the Team to get rid of the obstacles.
+   * Product Owner’s presence is optional for this meeting.
+
+> Sprint Review 
+  * This Meeting is held at the end of every Sprint.
+  * During the Sprint Review, the Team exhibits to all the relevant stakeholders about what was done (i.e. developed) in that particular Sprint and overall progress of the Release.
+ * The Product Owner discusses the Product Backlog as it stands and may get revised as an outcome
+ * The entire group discusses on what to do next, which in turn helps the subsequent Sprint Planning Meetings
+
+> Sprint Retrospective
+  * The Scrum Team inspects the performance of the Sprint which is just concluded and creates a plan on what needs to be improved for the upcoming subsequent Sprints. 
+  * This Retrospective meeting is done post the Sprint Review meeting and before the next Sprint begins. 
+  * Following are the steps for the Sprint Retrospective:
+           # Setting the Stage
+           # Gather Data
+           # Generate Insights
+           # Decide What to Do
+           # Close the Retrospective
+==================================================================================================================================================================================
+
+SCRUM ARTIFACTS
+
+> Scrum artifacts represent work or value in various ways that are useful in providing transparency and opportunities to inspect and adapt.
+  * Product Backlog 
+  * Release Burndown
+  * Sprint Backlog 
+  * Sprint Burndown
+
+> Product Backlog 
+  * Product Backlog (PB) which a refined and prioritized list of features. 
+  * PB can also be defined as “An ordered and emerging list of user needs (User Stories) plus anything else that is required to fulfill the Product Vision”. 
+  * The Product Owner is responsible for the Product Backlog, its contents, its availability, and its prioritization. 
+  * Only a single Product Backlog exists and is refined and updated through the lifetime of the project.
+  * The Product Backlog includes the requirements of the project. It can be articulated in any way that is clear and sustainable. 
+  * Backlog is continuously updated by the Product Owner to reflect changes in the needs of the customer, new ideas, issues and risks that appear.
+
+> Release Burndown
+  * The Release Burn down graph records the sum of remaining Product Backlog estimated work across time. 
+  * The X-axis contains the number of Sprints for the release whereas 
+  * Y axis contains the effort remaining in the release. 
+
+> Sprint Backlog 
+  * The Sprint Backlog is a highly visible, real-time picture of the work that the Team plans to accomplish during the Sprint.
+  * The Sprint Backlog is the set of Product Backlog items and associated tasks the Team performs to turn Product Backlog items into a “Done” increment. 
+  * The Sprint Backlog gets updated by the Team throughout the Sprint by updating the remaining effort for the tasks, completion of the tasks and modification of tasks
+  * The Scrum Team tracks this total work remaining at least for every Daily Scrum.
+
+> Sprint Burndown 
+  * Sprint Burndown is a graph that represents the amount of Sprint Backlog work remaining in a Sprint across number of days in the Sprint.
+  * The “Y” axis shows the remaining effort required to complete the work planned 
+  * The “X” axis contains the number of days until the iteration deadline. 
+  * The remaining effort is determined by summing the time estimates for incomplete tasks.
+  * Team members must update their actual amount of time remaining for the completion of their task in the Sprint Backlog. 
+  * The Sprint Burndown Chart is plotted accordingly based on this update.
+  * If the actual line of the Burndown chart is behind (i.e. Lagging) the Ideal line, then it indicates that the team is not on schedule or as per the plan.
+  * The Team needs to adjust, such as to reduce the scope of the work or to find a way to work more efficiently while still maintaining a sustainable pace.
+==================================================================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
